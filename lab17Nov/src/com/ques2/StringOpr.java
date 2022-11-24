@@ -15,7 +15,13 @@ public class StringOpr {
 		String a = sc.next();
 		System.out.println("Input next String");
 		String c = sc.next();
-		int length= a.length();
+		int length= a.length()
+				
+				
+				
+				
+				
+				;
 		char b=a.charAt(1);
 		String con= a.concat(c);
 		int q= a.compareTo(c);
